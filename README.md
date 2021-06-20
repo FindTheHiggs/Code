@@ -1,5 +1,3 @@
 # Code
 
-The file titled 'Support' is currently being used to investigate the data. Ultimately I will use this as a place to store useful functions that the students do not need to interact with.
-
-The file named 'FindTheHiggs' is the main file where the ML will take place.
+The file titled 'Functions' is used to hold some useful functions for import in the other codes. The 'FindTheHiggs' file goes through the steps of training an ML model and using it to predict the labels of the data.
